@@ -1,0 +1,10 @@
+{
+    "reactSnippets.settings.prettierEnabled": true,
+    "git.allowForcePush": true,
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
